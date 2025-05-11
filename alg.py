@@ -41,7 +41,7 @@ elif g>p:
 else:
     print("Perdiste... (҂◡_◡) ᕤ  Suerte a la proxima!")
 
-print("Gracias por jugar!!")
+print("Gracias por jugar!!!")
 print("⠀  ⠀   (\__/)")
 print("       (•ㅅ•)      Código para ")
 print("    ＿ノヽ ノ＼＿      taller Git")
